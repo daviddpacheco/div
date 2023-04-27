@@ -1,0 +1,13 @@
+div{
+height: 300px;
+width: 300px;
+border: 10px;
+border-style: groove;
+}
+
+p{
+    background-color: aquamarine;
+    border-style: hidden;
+    border: 2px;
+}
+
